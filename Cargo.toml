@@ -1,0 +1,8 @@
+[package]
+name = "ChemSimApp-sim"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.26" # リアルタイム描画に強いGUIクレート
+font-kit = "0.14" # システムフォント検索用に追加
